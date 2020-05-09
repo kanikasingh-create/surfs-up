@@ -1,6 +1,6 @@
 # Surf's Up!
 
-This analysis shows that there are enough customers between seasons to sustain the business throughout the year. To do this, the analysis will:
+This analysis shows that there are enough customers between seasons to sustain the business throughout the year. The analysis will:
 * Determine key statistical data about the month of June.
 * Determine key statistical data about the month of December.
 * Compare findings between the month of June and December.
