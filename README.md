@@ -10,15 +10,19 @@ The findings of this analysis are shared below, as well as in the above Jupyter 
 
 ## Key statistical data for the month of June
 ![MyImage](June_Stats1.png)
+The weather data analysis for June shows that the average temperature is about 77F with relatively little precipitation. The standard deviation is not too large (1.88), indicating that the temperature does not vary too much in the summer months. The temperature in June is typically not below 70F, which shows that June is the perfect month for attracting traffic to a surf n’ shake shop.
 
 ## Key statistical data for the month of December
 ![MyImage](Dec_Stats1.png)
+The weather data analysis for December shows that while the average temperature is about 71F, there is no significant difference in temperature as compared with June. Standard deviation in temperature is a little larger (3.5), which indicates that there are some swings in temperature in December. Precipitation data for December tells a more ‘dire’ story, as December tends to be a wet month (0.11mm average precipitation, with a maximum precipitation of 4.9mm). This may alter the decision of some to eat ice cream, however since December holidays tend to be peak travel time in Hawaii, the shop has a chance at attracting patrons in December. 
 
 ## Findings
 ### June
 ![MyImage](June_Graph.png)
 ### December
 ![MyImage](Dec_Graph.png)
+
+Comparing the weather data between June and December, we can see that while June temperatures tend to be higher and fluctuate less, December weather is only marginally cooler. Seasonal effects of weather will be more related to precipitation, as December is a wetter month. This may alter surfer traffic, however since December tends to be peak tourist season, there may be a chance that the shop continues to attract visitors. By comparing data from June and December, we can reasonably conclude that the shop may attract more traffic in June as compared with December.
 
 ## Recommendations for further analysis
 
