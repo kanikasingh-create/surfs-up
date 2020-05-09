@@ -15,6 +15,8 @@ The findings of this analysis are shared below, as well as in the above Jupyter 
 ![MyImage](Dec_Stats1.png)
 
 ## Findings
+![MyImage](June_Graph.png)
+![MyImage](Dec_Graph.png)
 
 ## Recommendations for further analysis
 
